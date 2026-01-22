@@ -1,1 +1,1 @@
-https://myroslavvv.github.io/filter-tovarov/
+https://myroslavvv.github.io/practica-filter-tovarov/
